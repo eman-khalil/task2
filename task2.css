@@ -1,0 +1,675 @@
+ body{
+     height: 4350px;
+ }
+ .backimg
+{
+    height:600px;
+    width:100%;
+    background-image: url("pexels-đông-viễn-3733513.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.nav
+{
+    height:70px;
+    width:100%; 
+    
+}
+.nav-1
+{
+    width:400px;
+    height:70px;
+    float:left;
+}
+.nav-2
+{
+    width:600px;
+    height:70px;
+    float:right;
+    
+}
+.nav-1 .imglogo{
+    width:100px;
+    height:70px;
+    float:left;
+}
+.nav-1 .logo
+{
+    width:70px;
+    height:70px;
+    border-radius:100%;
+    margin-left:20px;
+    float:left;
+}
+.nav-1 .head
+{
+    width:230px;
+    height:70px;
+    float: left;
+    margin-left:5px;
+    color:#fff;
+    text-align: center;  
+}
+
+.head p{
+    font-size: 40px;  
+    margin-top:15px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.nav-2 div
+{
+    width:115px;
+    height:70px;
+    float:left;
+    margin-left:5px;
+    font-size:25px;
+    text-align: center;
+    color:#fff;   
+}
+.nav-2 div p:hover
+{
+    color:rgb(234, 156, 245);
+}
+.nav-2 p
+{
+    margin-top:20px;
+}
+
+
+.cent .p1{
+    color:#fff;
+    font-size:35px;
+}
+.cent
+{
+    text-align:center;
+    margin-top:150px;
+}
+.cent .p2
+{
+    color:#fff;
+    font-size:20px;
+}
+.p1 span{
+    font-size:60px;
+    font-weight: bolder;
+}
+.blu{
+    width:100px;
+    height:40px;
+    background-color: rgb(231, 136, 243);
+    border:1px solid rgb(231, 136, 243);
+}
+.red
+{
+    width:100px;
+    height:40px;
+    background-color: rgb(231, 136, 243);
+    border:1px solid rgb(231, 136, 243);
+}
+.red:hover ,.blu:hover{
+    opacity:0.7;
+}
+
+/*END SECTION ONE*/
+ 
+ /*start section 2*/
+ .section2 .cont{
+    width:100%;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+.section2 .cont .cont2{
+    width:90%;
+    height: 350px;
+    margin-left:65px;
+    margin-top:25px;
+}
+.section2 .cont .cont2 .div1,
+.section2 .cont .cont2 .div2,
+.section2 .cont .cont2 .div3{
+    width:32%;
+    height: 350px;
+    float:left;
+    text-align: center;
+}
+.section2 .cont .cont2 .div2{
+    margin-left:21px;
+}
+.section2 .cont .cont2 .div2{
+    margin-right:21px;
+}
+.section2 .cont .cont2 .div1 .fas,
+.section2 .cont .cont2 .div2 .fa,
+.section2 .cont .cont2 .div3 .far{
+   font-size:35px;
+   color: rgb(231, 136, 243);
+   margin-top: 20px; 
+   
+}
+
+
+.section2 .cont .cont2 .div1 h1,
+.section2 .cont .cont2 .div2 h1,
+.section2 .cont .cont2 .div3 h1{
+   font-size:30px;
+   color:rgb(37, 37, 37); 
+   margin-top: 20px; 
+}
+.section2 .cont .cont2 .div1 p,
+.section2 .cont .cont2 .div2 p,
+.section2 .cont .cont2 .div3 p{
+   font-size:20px;
+   color:rgb(73, 73, 73); 
+   margin-top: 20px; 
+}
+
+/* end section 2*/
+
+/*start section 3*/
+.section3 .bigcont{
+    width:100%;
+    height: 500px;
+    background-image: url("pexels-pixabay-264591 (1).jpg");
+    background-attachment: fixed;
+    border:0.5px solid rgb(255, 255, 255);
+    margin-top:0px;
+}
+.section3 .bigcont .overlay{
+    width:40%;
+    height:100%;
+    float: right;
+    margin-right: 65px;  
+    top:0;
+    left:0;  
+    background-color: rgb(231, 136, 243,0.6);
+}
+.section3 .bigcont .overlay h1{
+    font-size:30px;
+    color:rgb(241, 241, 241); 
+    margin-top: 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.section3 .bigcont .overlay h3{
+    font-size:20px;
+    color:rgb(241, 241, 241); 
+    margin-top: 20px;
+}
+
+.section3 .bigcont .overlay p{
+    font-size:18px;
+    color:rgb(241, 241, 241); 
+    margin-top: 20px;
+    line-height: 2em;
+}
+.section3 .bigcont .overlay .num1,
+.section3 .bigcont .overlay .num2
+{
+  width:180px;
+  height:120px;
+  border:1px solid white;
+  float:left;
+  margin-top:30px;
+  text-align: center;
+}
+.section3 .bigcont .overlay .num2{
+    float: right;
+}
+.section3 .bigcont .overlay .container{
+    width:85%;
+    height: 450px; 
+    margin-left: 40px;
+    margin-top:30px;
+}
+/*end  section 3*/
+
+
+/*Start Section4*/
+.section4
+{
+height:520px;
+width:100%;
+margin-top:50px;
+margin-bottom:50px;
+}
+.section4 .cont4
+{
+    width:90%;
+    height:520px;
+    margin-left:65px;  
+}
+
+.section4 .cont4 .part1
+{
+    float:left;
+    width:55%;
+    height:520px;
+    color:rgb(2, 5, 49);
+    
+}
+.section4 .cont4 .part1 h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:27px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.section4 .cont4 .part1 p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:18px;
+    line-height: 1.5em;
+}
+.section4 .cont4 .part2
+{   
+    float:left;
+    width:40%;
+    height:520px;
+    color:rgb(2, 5, 49);
+    background-image: url("pexels-suzy-hazelwood-2537930.jpg");
+    background-size: cover;
+    margin-left:55px;
+}
+.section4 .cont4 .part1 .take
+{
+    width:150px;
+    height:40px;
+    background-color: rgb(231, 136, 243);
+    border:1px solid rgb(231, 136, 243);
+    font-size:15px;
+    color:#fff;
+    margin-top:50px;
+}
+.section4 .cont4 .part1 .take:hover
+{
+    background-color:rgb(190, 184, 184);
+    border:1px solid rgb(190, 184, 184);
+}
+/*End Section4*/
+
+/*start section 5*/
+.section5 .bigcontainer{
+    width:100%;
+    height: 500px;
+    background-image: url("pexels-cottonbro-4620873.jpg");
+    background-attachment: fixed;
+    border:0.5px solid rgb(255, 255, 255);
+    margin-top:20px;
+}
+.section5 .bigcontainer .overlay{
+    width:40%;
+    height:100%;
+    float: left;
+    margin-left: 65px;  
+    top:0;
+    left:0;  
+    background-color: rgb(231, 136, 243,0.6);
+}
+.section5 .bigcontainer .overlay h1{
+    font-size:30px;
+    color:rgb(241, 241, 241); 
+    margin-top: 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.section5 .bigcontainer .overlay h2{
+    font-size:20px;
+    color:rgb(241, 241, 241); 
+    margin-top: 20px;
+}
+
+.section5 .bigcontainer .overlay p{
+    font-size:18px;
+    color:rgb(241, 241, 241); 
+    margin-top: 20px;
+    line-height: 1.5em;
+}
+.section5 .bigcontainer .overlay .num1,
+.section5 .bigcontainer .overlay .num2
+{
+  width:180px;
+  height:120px;
+  border:1px solid white;
+  float:left;
+  margin-top:30px;
+  text-align: center;
+}
+.section5 .bigcontainer .overlay .num2{
+    float: right;
+}
+.section5 .bigcontainer .overlay .container{
+    width:85%;
+    height: 450px; 
+    margin-left: 40px;
+    margin-top:30px;
+}
+/*end section 5*/
+
+
+
+/*Start Section 6*/
+.section6 .sec6{
+    width:100%;
+    height:990px;
+}
+ .cont6
+{
+    width:90%;
+    margin-left:65px;
+    height:990px;
+}
+.section6 .sec6  .cont6 .left
+{
+    width:70%;
+    height:920px;
+    margin-top:35px;
+    float:left;
+    
+}
+.section6 .sec6  .cont6  .left .top-left
+{
+
+width:100%;
+height:350px;
+margin-bottom:10px;
+background-image: url("pexels-kinkate-208052 (1).jpg");
+background-size:cover;
+}
+.section6 .sec6  .cont6  .left .center-left
+{
+
+width:100%;
+height:420px;
+
+}
+.section6 .sec6  .cont6  .left .center-left .part-left
+{
+   
+    width:60%;
+    height:420px; 
+    float:left; 
+    background-image: url("pexels-𝐕𝐞𝐧𝐮𝐬-𝐇𝐃-𝐌𝐚𝐤𝐞-𝐮𝐩-&-𝐏𝐞𝐫𝐟𝐮𝐦𝐞-2547462.jpg");
+    background-size:cover;
+    
+}
+.section6 .sec6  .cont6  .left .center-left .part-right
+{
+    
+    width:40%;
+    height:420px;  
+    float:right;
+    
+   
+}
+.section6 .sec6  .cont6  .left .center-left .part-right .part-top
+{
+    width:95%;
+    height:245px;
+    background-image: url("pexels-beatrice-cornejo-3989775 (1).jpg");
+    background-size:cover;
+    margin-bottom: 10px;
+    margin:0px 0px 10px 15px;
+  
+  
+}
+.section6 .sec6  .cont6  .left .center-left .part-right .part-down
+{
+    width:95%;
+    height:165px;
+    background-image: url("pexels-кристина-александрова-3750640.jpg");
+    background-size:cover;
+    margin:5px 0px 5px 15px;
+   
+}
+.section6 .sec6  .cont6  .left .down-left
+{
+    width:100%;
+    height:131px;
+    margin-top:10px;
+    background-image: url("pexels-suzy-hazelwood-1327689.jpg");
+    background-size:cover;
+    margin:10px 0px 5px 0px;
+    
+}
+/************************************************/
+.section6 .sec6  .cont6 .right
+{
+    width:30%;
+    float:left;
+    height:920px;
+    margin-top:35px;
+   
+}
+.section6 .sec6  .cont6 .right .top-right{
+    width:95%;
+    height: 700px;
+    background-image: url("pexels-𝐕𝐞𝐧𝐮𝐬-𝐇𝐃-𝐌𝐚𝐤𝐞-𝐮𝐩-&-𝐏𝐞𝐫𝐟𝐮𝐦𝐞-1749452.jpg");
+    background-size:cover;
+    margin:0px 5px 5px 10px;
+}
+.section6 .sec6  .cont6 .right .down-right{
+    width:95%;
+    height: 210px;
+    background-image: url("pexels-suzy-hazelwood-2533266.jpg");
+    background-size:cover;
+    margin:10px 5px 0px 10px;
+}
+
+
+/*End Section 6*/
+
+
+/*start section 7*/
+ .section7 .bigconta{
+    width:100%;
+    height: 150px;
+    background-color: white;
+    border:0.5px solid rgb(255, 255, 255);
+    margin-top:5px;
+ }
+ .section7 .bigconta .cont2{
+    width:90%;
+    height: 100px;
+    margin-left:65px;
+    margin-top:5px;
+ }
+ .section7 .bigconta .cont2 .logo1,
+ .section7 .bigconta .cont2 .logo2,
+ .section7 .bigconta .cont2 .logo3,
+ .section7 .bigconta .cont2 .logo4,
+ .section7 .bigconta .cont2 .logo5,
+ .section7 .bigconta .cont2 .logo6{
+    width:15%;
+    height: 100px;
+    float:left; 
+ }
+ .section7 .bigconta .cont2 .logo2,
+ .section7 .bigconta .cont2 .logo3,
+ .section7 .bigconta .cont2 .logo4,
+ .section7 .bigconta .cont2 .logo5,
+ .section7 .bigconta .cont2 .logo6{
+     margin-left:23.5px;
+     text-align: center;
+ }
+ .section7 .bigconta .cont2 .logo1 img,
+ .section7 .bigconta .cont2 .logo2 img,
+ .section7 .bigconta .cont2 .logo3 img,
+ .section7 .bigconta .cont2 .logo4 img,
+ .section7 .bigconta .cont2 .logo5 img,
+ .section7 .bigconta .cont2 .logo6 img
+ {
+     width:80%;
+     height: 70px;
+ }
+/*end section 7*/
+/*start section 8*/
+
+.section8
+{
+    width:100%;
+    height:420px;
+    margin-top:0px;
+}
+.section8 .largecontainer
+{
+    width:90%;
+    height:420px;
+    margin-left:65px;
+    background-image: url("pexels-cottonbro-4620859.jpg");
+    background-size:cover;
+    background-attachment: fixed;
+    
+}
+.section8 .largecontainer .overlay
+{
+    width:100%;
+    height:420px;
+    top:0;
+    left:0;
+    background: rgba(2, 2, 2,0.5);
+    border:1px solid  rgba(248, 247, 247, 0.911);
+}
+.container .include{
+width:600px;
+height:100px;
+
+margin-top:40px;
+margin-left:50px;
+}
+.container .include2{
+    width:900px;
+    height:120px;
+    
+    margin-left:50px;
+    }
+.include h1
+{
+    
+    font-size:30px;
+    color:rgb(241, 241, 241); 
+    margin-top: 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.include2 p
+{
+    color:#fff;
+    font-size:19px;
+    color:rgb(241, 241, 241); 
+    margin-top: 10px;
+    line-height: 2em;
+}
+input 
+{
+    margin-left:50px;
+    width:250px;
+}
+button.sb
+{
+    margin-left:50px;
+    margin-top:20px;
+    background-color: rgb(231, 136, 243);
+    border:1px solid rgb(231, 136, 243);
+    color:#fff;
+    height:40px;
+    
+}
+/*end section 8*/
+
+/*start section 9*/
+
+.section9 .cont3{
+    width:100%;
+    height: 130px;
+    background-color: rgb(28, 28, 39);
+    border:0.5px solid rgb(255, 255, 255);
+}
+.section9 .cont3 .conta3{
+    width:90%;
+    height: 70px;
+    margin-left:65px;
+    margin-top:5px;
+}
+.section9 .cont3 .conta3 .text{
+    float:left;
+}
+.section9 .cont3 .conta3 .text h1{
+    margin-left:10px;
+    color:rgb(231, 136, 243);
+    font-size:30px;
+    margin-bottom: 0;
+   
+}
+.section9 .cont3 .conta3 .text p{
+    font-size:20px;
+    color:rgb(241, 241, 241);
+    
+}
+.section9 .cont3 .conta3 .text p a{
+    text-decoration: none;
+    color:rgb(231, 136, 243);
+}
+.section9 .cont3 .conta3 .text p a:hover{
+    color:rgb(231, 136, 243,0.6);
+}
+
+.section9 .cont3 .conta3 .fa {
+    padding: 13px;
+    font-size: 15px;
+    width: 13px;
+    border-radius: 50%;
+    text-align: center;
+    text-decoration: none;
+    margin: 30px 2px;
+    float: right;
+    
+  }
+  
+  .section9 .cont3 .conta3 .fa-facebook {
+    border:1px solid #3B5998;
+    color: white;
+  }
+  .section9 .cont3 .conta3 .fa-facebook:hover {
+    background-color:  #3B5998;
+    opacity:0.7;
+    
+  }
+  
+  .section9 .cont3 .conta3 .fa-twitter {
+    border:1px solid #55ACEE;
+    color: white;
+  }
+  .section9 .cont3 .conta3 .fa-twitter:hover {
+    background-color:  #55ACEE;
+    opacity:0.7;
+  }
+  
+  .section9 .cont3 .conta3 .fa-google {
+    border:1px solid #dd4b39;
+    color: white;
+  }
+  .section9 .cont3 .conta3 .fa-google:hover {
+    background-color:  #dd4b39;
+    opacity:0.7;
+  }
+  
+  .section9 .cont3 .conta3 .fa-linkedin {
+    border:1px solid #007bb5;
+    color: white;
+  }
+  .section9 .cont3 .conta3 .fa-linkedin:hover {
+    background-color:  #007bb5;
+    opacity:0.7;
+  }
+  
+  .section9 .cont3 .conta3 .fa-youtube {
+    border:1px solid #bb0000;
+    color: white;
+  }
+  .section9 .cont3 .conta3 .fa-youtube:hover {
+    background-color:  #bb0000;
+    opacity:0.7;
+  }
+/*end section 9*/
+
